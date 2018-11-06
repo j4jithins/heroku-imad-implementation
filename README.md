@@ -1,2 +1,3 @@
-# heroku-imad-implementation
-heroku imad implementation
+# imad-app
+
+IMAD course application.
